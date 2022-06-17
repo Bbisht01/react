@@ -3,6 +3,8 @@ import Counter from './Day1/Counter';
 import Parent from './Day2/Calculator/Parent';
 import Data from './Day2/PropDrill.jsx/Data';
 import Spread from './Day2/Spread';
+import Button from './Day3/Button';
+import Gallery from './Day3/Gallery';
 
 
 
@@ -12,7 +14,9 @@ function App() {
       {/* <Counter/> */}
       {/* <Data/> */}
       {/* <Spread/> */}
-      <Parent/>
+      {/* <Parent/> */}
+      <Button/>
+      {/* <Gallery/> */}
     </div>
   );
 }
