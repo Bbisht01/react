@@ -5,6 +5,7 @@ import Data from './Day2/PropDrill.jsx/Data';
 import Spread from './Day2/Spread';
 import Button from './Day3/Button';
 import Gallery from './Day3/Gallery';
+import ContextHolder from './Day5/ContextApi/ContextHolder';
 
 
 
@@ -15,8 +16,9 @@ function App() {
       {/* <Data/> */}
       {/* <Spread/> */}
       {/* <Parent/> */}
-      <Button/>
+      {/* <Button/> */}
       {/* <Gallery/> */}
+      <ContextHolder/>
     </div>
   );
 }

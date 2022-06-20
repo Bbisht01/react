@@ -1,0 +1,8 @@
+.imageContainer {
+    display: grid;
+    grid-template-columns: repeat(4, 20%);
+    justify-content: center;
+    /* column-count: 4; */
+    gap: 20px;
+  }
+  
