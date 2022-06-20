@@ -1,0 +1,10 @@
+.formCard {
+    /* border: 1px solid red; */
+    width: 20%;
+    height: 300px;
+    line-height: 2;
+    margin: auto;
+    text-align: left;
+    padding-left: 10%;
+  }
+  
